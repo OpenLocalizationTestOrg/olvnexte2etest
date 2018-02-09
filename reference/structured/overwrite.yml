@@ -1,1 +1,47 @@
-# This is Yaml with overwrite markdown
+### YamlMime:ManagedReference
+items:
+- uid: Accessibility.AnnoScope
+  commentId: T:Accessibility.AnnoScope
+  id: AnnoScope
+  children:
+  - Accessibility.AnnoScope.ANNO_CONTAINER
+  - Accessibility.AnnoScope.ANNO_THIS
+  langs:
+  - csharp
+  name: AnnoScope
+  nameWithType: AnnoScope
+  fullName: Accessibility.AnnoScope
+  type: Enum
+  assemblies:
+  - Accessibility
+  namespace: Accessibility
+  summary: The <xref href="Accessibility.AnnoScope"></xref> and all of its exposed members are part of a managed wrapper for the Component Object Model (COM) accessibility interface.
+  remarks: For more information about <xref:Accessibility.AnnoScope>, see the documentation on `Dynamic Properties` in the Microsoft Active Accessibility documentation in the MSDN library at http://msdn.microsoft.com/library.
+  syntax:
+    content: public enum AnnoScope
+  inheritance:
+  - System.Object
+  - System.ValueType
+  - System.Enum
+  version:
+  - netframework-4.5.1
+  - netframework-4.5.2
+  - netframework-4.5
+  - netframework-4.6.1
+  - netframework-4.6.2
+  - netframework-4.6
+  - netframework-4.7
+  monikers:
+  - netframework-4.5.1
+  - netframework-4.5.2
+  - netframework-4.5
+  - netframework-4.6.1
+  - netframework-4.6.2
+  - netframework-4.6
+  - netframework-4.7
+  content_git_url: https://github.com/dotnet/docs/blob/master/xml/Accessibility/AnnoScope.xml
+  ms.technology:
+  - dotnet-standard
+  author: stevehoag
+  ms.author: shoag
+  manager: wpickett
