@@ -1,1 +1,1 @@
-[AZURE.INCLUDE [a-test](./test.md)]
+remove dep of test.md
