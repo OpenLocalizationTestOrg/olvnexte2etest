@@ -1,0 +1,6 @@
+<Namespace Name="Microsoft.VisualStudio.SharePoint.Remote.Authentication">
+  <Docs>
+    <summary>The <see cref="N:Microsoft.VisualStudio.SharePoint.Remote.Authentication" /> namespace contains class that is use for authenticating remote SharePoint.</summary>
+    <remarks>To be added.</remarks>
+  </Docs>
+</Namespace>
